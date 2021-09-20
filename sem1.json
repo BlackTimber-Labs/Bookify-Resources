@@ -1,0 +1,82 @@
+[
+    {
+      "id": "1",
+      "title": "Basic civil Engineering S S Bhavikatti",
+      "author": "S S Bhavikatti",
+      "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/civil/IMG_20210917_201016.jpg",
+      "downloadewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/civil/basic-civil-engineering-s-s-bhavikatti.pdf",
+      "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/civil/basic-civil-engineering-s-s-bhavikatti.pdf"
+    },
+    {
+      "id": "2",
+      "title": "Basic Civil Engineering By Punmia",
+      "author": "Punmia",
+      "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/civil/IMG_20210917_201145.jpg",
+      "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/civil/Basic%20Civil%20Engineering%20By%20Punmia.PDF",
+      "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/civil/Basic%20Civil%20Engineering%20By%20Punmia.PDF"
+    },
+    {
+      "id": "3",
+      "title": "Engineering Mechanics By R S Khurmi",
+      "author": "R S Khurmi",
+      "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/civil/IMG_20210917_201601.jpg",
+      "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/civil/Engineering%20Mechanics%20By%20R%20S%20Khurmi.pdf",
+      "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/civil/Engineering%20Mechanics%20By%20R%20S%20Khurmi.pdf"
+    },
+    {
+      "id": "4",
+      "title": "Electronic Devices and Circuit Theory",
+      "author": "Robert L. Boylestad Louis Nashelsky",
+      "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/Electronics/IMG_20210917_200630.jpg",
+      "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/Electronics/Electronic%20Devices%20and%20Circuit%20Theory%20(11th%20Edition)%20by%20Robert%20L.%20Boylestad,%20Louis%20Nashelsky%20(z-lib.org).pdf",
+      "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/Electronics/Electronic%20Devices%20and%20Circuit%20Theory%20(11th%20Edition)%20by%20Robert%20L.%20Boylestad,%20Louis%20Nashelsky%20(z-lib.org).pdf"
+    },
+    {
+      "id": "5",
+      "title": "Higher Engineering Mathematics",
+      "author": "B.S. Grewal",
+      "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/EM-2/IMG_20210917_201706.jpg",
+      "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/EM-2/B.S.%20Grewal.pdf",
+      "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/EM-2/B.S.%20Grewal.pdf"
+    },
+    {
+      "id": "6",
+      "title": "Engineering Drawing by N. D. Bhatt",
+      "author": "N. D. Bhatt",
+      "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/Engg%20Drawing/953a499656473630e8c623a95428c144.jpg",
+      "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/Engg%20Drawing/Engineering%20Drawing%20by%20N.%20D.%20Bhatt%20by%20N.%20D.%20Bhatt%20(z-lib.org).pdf",
+      "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/Engg%20Drawing/Engineering%20Drawing%20by%20N.%20D.%20Bhatt%20by%20N.%20D.%20Bhatt%20(z-lib.org).pdf"
+    },
+    {
+      "id": "7",
+      "title": "Environmental Studies",
+      "author": "Bharucha E",
+      "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/EVS/IMG_20210917_202021.jpg",
+      "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/EVS/Bharucha%20E.pdf",
+      "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/EVS/Bharucha%20E.pdf"
+    },
+    {
+      "id": "8",
+      "title": "Environmental Science - Miller",
+      "author": "G. TYLER MILLER, JR.",
+      "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/EVS/IMG_20210917_201902.jpg",
+      "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/EVS/Environmental%20Science%20-%20Miller.pdf",
+      "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/EVS/Environmental%20Science%20-%20Miller.pdf"
+    },
+    {
+      "id": "9",
+      "title": "Environmental Studies - AK De",
+      "author": "AK De",
+      "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/EVS/IMG_20210917_201750.jpg",
+      "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/EVS/Environmental%20Studies%20-%20AK%20De.pdf",
+      "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/EVS/Environmental%20Studies%20-%20AK%20De.pdf"
+    },
+    {
+      "id": "10",
+      "title": "Fundamentals of Physics",
+      "author": "Resnick Halliday",
+      "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/Physics/IMG_20210917_200314.jpg",
+      "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/Physics/Resnick%20Halliday.pdf",
+      "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem1/Physics/Resnick%20Halliday.pdf"
+    }
+]
