@@ -1,0 +1,50 @@
+[
+  {
+    "id": "11",
+    "title": "Engineering_Chemistry_by_Jain_and_Jain",
+    "author": "Jain and Jain",
+    "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/Chemistry/IMG_20210917_202113.jpg",
+    "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/Chemistry/Engineering_Chemistry_by_Jain_and_Jain.pdf",
+    "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/Chemistry/Engineering_Chemistry_by_Jain_and_Jain.pdf"
+  },
+  {
+    "id": "12",
+    "title": "Basic Electrical Engineering by Kulshreshtha D.C",
+    "author": "Kulshreshtha D.C",
+    "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/Electrical/91UUJx-UyZL.jpg",
+    "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/Electrical/Basic%20Electrical%20Engineering%20by%20Kulshreshtha%20D.C.%20(z-lib.org).pdf",
+    "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/Electrical/Basic%20Electrical%20Engineering%20by%20Kulshreshtha%20D.C.%20(z-lib.org).pdf"
+  },
+  {
+    "id": "13",
+    "title": "Power System Analysis Power System Analysis by Nagsarkar",
+    "author": "Nagsarkar",
+    "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/Electrical/51Z+NoeAysL.jpg",
+    "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/Electrical/Power%20System%20Analysis%20Power%20System%20Analysis%20by%20Nagsarkar,%20T.%20K.,%20Sukhija,%20M.%20S%20(z-lib.org).pdf",
+    "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/Electrical/Power%20System%20Analysis%20Power%20System%20Analysis%20by%20Nagsarkar,%20T.%20K.,%20Sukhija,%20M.%20S%20(z-lib.org).pdf"
+  },
+  {
+    "id": "14",
+    "title": "Higher Engineering Mathematics",
+    "author": "B.S. Grewal",
+    "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/Maths/IMG_20210917_201706.jpg",
+    "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/Maths/B.S.%20Grewal.pdf",
+    "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/Maths/B.S.%20Grewal.pdf"
+  },
+  {
+    "id": "15",
+    "title": "Technical communication_ principles and practice-Oxford University",
+    "author": "Meenakshi Raman",
+    "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/LN1001/51dKnCox8ZL.jpg",
+    "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/LN1001/Raman,%20Meenakshi_%20Sharma,%20Sangeeta%20-%20Technical%20communication_%20principles%20and%20practice-Oxford%20University%20Press%20(2015).pdf",
+    "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/LN1001/Raman,%20Meenakshi_%20Sharma,%20Sangeeta%20-%20Technical%20communication_%20principles%20and%20practice-Oxford%20University%20Press%20(2015).pdf"
+  },
+  {
+    "id": "16",
+    "title": "Let Us C by Yashavant Kanetkar",
+    "author": "Yashavant Kanetkar",
+    "imgurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/PSUC/letusc.jpg",
+    "downloadurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/PSUC/Let%20Us%20C%20by%20Yashavant%20Kanetkar%20(z-lib.org).pdf",
+    "viewurl": "https://blacktimber-labs.github.io/LiberDeck-Resources/sem2/PSUC/Let%20Us%20C%20by%20Yashavant%20Kanetkar%20(z-lib.org).pdf"
+  }
+]
